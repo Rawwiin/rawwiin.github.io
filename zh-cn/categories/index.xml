@@ -1,0 +1,16 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>Categories - 分类 - Rawwiin小站</title>
+        <link>http://rawwiin.github.io/zh-cn/categories/</link>
+        <description>Categories - 分类 - Rawwiin小站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Rawwiin@qq.com (Rawwiin)</managingEditor>
+            <webMaster>Rawwiin@qq.com (Rawwiin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 30 Nov 2020 11:36:53 &#43;0800</lastBuildDate><atom:link href="http://rawwiin.github.io/zh-cn/categories/" rel="self" type="application/rss+xml" /><item>
+    <title>Blog</title>
+    <link>http://rawwiin.github.io/zh-cn/categories/blog/</link>
+    <pubDate>Mon, 30 Nov 2020 11:36:53 &#43;0800</pubDate>
+    <author>Rawwiin</author>
+    <guid>http://rawwiin.github.io/zh-cn/categories/blog/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>

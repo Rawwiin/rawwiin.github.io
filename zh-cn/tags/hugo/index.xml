@@ -1,0 +1,24 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title>hugo - 标签 - Rawwiin小站</title>
+        <link>http://rawwiin.github.io/zh-cn/tags/hugo/</link>
+        <description>hugo - 标签 - Rawwiin小站</description>
+        <generator>Hugo -- gohugo.io</generator><language>zh-CN</language><managingEditor>Rawwiin@qq.com (Rawwiin)</managingEditor>
+            <webMaster>Rawwiin@qq.com (Rawwiin)</webMaster><copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><lastBuildDate>Mon, 30 Nov 2020 11:36:53 &#43;0800</lastBuildDate><atom:link href="http://rawwiin.github.io/zh-cn/tags/hugo/" rel="self" type="application/rss+xml" /><item>
+    <title>Hogo安装部署</title>
+    <link>http://rawwiin.github.io/zh-cn/posts/hugo/hugo%E5%AE%89%E8%A3%85/</link>
+    <pubDate>Mon, 30 Nov 2020 11:36:53 &#43;0800</pubDate>
+    <author>Rawwiin</author>
+    <guid>http://rawwiin.github.io/zh-cn/posts/hugo/hugo%E5%AE%89%E8%A3%85/</guid>
+    <description><![CDATA[Hogo 搭建 环境 Hugo 二进制安装 Releases · gohugoio/hugo (github.com) 官方建议您安装扩展版 Git 创建site hugo new site myblog cd myblog git init git submodule add https://github.com/dillonzq/LoveIt.git themes/LoveIt echo &#34;theme = &#39;LoveIt&#39;&#34; &gt;&gt; hugo.toml hugo server 添加content hugo new content posts/my-first-post.md hugo server --bind=&#34;0.0.0.0&#34; -p]]></description>
+</item>
+<item>
+    <title>Hogo配置</title>
+    <link>http://rawwiin.github.io/zh-cn/posts/hugo/hugo%E9%85%8D%E7%BD%AE/</link>
+    <pubDate>Mon, 30 Nov 2020 11:36:53 &#43;0800</pubDate>
+    <author>Rawwiin</author>
+    <guid>http://rawwiin.github.io/zh-cn/posts/hugo/hugo%E9%85%8D%E7%BD%AE/</guid>
+    <description><![CDATA[]]></description>
+</item>
+</channel>
+</rss>
